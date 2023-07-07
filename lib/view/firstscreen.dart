@@ -89,7 +89,7 @@ class _FirstScreenState extends State<FirstScreen> {
                       right: 15,
                       top: 25,
                     ),
-                    width: width * 0.92,
+                    width: width * 0.92,height: height * 0.75
                     decoration: BoxDecoration(
                       color: const Color.fromRGBO(15, 46, 156, 1),
                       borderRadius: BorderRadius.circular(10),
