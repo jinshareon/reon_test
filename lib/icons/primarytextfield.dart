@@ -16,7 +16,7 @@ class _customTextfieldState extends State<customTextfield>  {
       decoration: const InputDecoration( 
           fillColor: Colors.white,
           filled: true,
-          focusedBorder: OutlineInputBorder(
+          border: OutlineInputBorder(
             borderRadius: BorderRadius.all(Radius.circular(7)),
           )),
     );
